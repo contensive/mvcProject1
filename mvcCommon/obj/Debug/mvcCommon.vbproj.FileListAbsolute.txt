@@ -1,0 +1,12 @@
+C:\Users\josh\Documents\GitHub\mvcProject1\mvcCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\josh\Documents\GitHub\mvcProject1\mvcCommon\obj\Debug\Resources.resources
+C:\Users\josh\Documents\GitHub\mvcProject1\mvcCommon\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\josh\Documents\GitHub\mvcProject1\mvcCommon\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\josh\Documents\GitHub\mvcProject1\mvcCommon\bin\Debug\mvcCommon.dll
+C:\Users\josh\Documents\GitHub\mvcProject1\mvcCommon\bin\Debug\mvcCommon.pdb
+C:\Users\josh\Documents\GitHub\mvcProject1\mvcCommon\bin\Debug\mvcCommon.xml
+C:\Users\josh\Documents\GitHub\mvcProject1\mvcCommon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\josh\Documents\GitHub\mvcProject1\mvcCommon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josh\Documents\GitHub\mvcProject1\mvcCommon\obj\Debug\mvcCommon.dll
+C:\Users\josh\Documents\GitHub\mvcProject1\mvcCommon\obj\Debug\mvcCommon.xml
+C:\Users\josh\Documents\GitHub\mvcProject1\mvcCommon\obj\Debug\mvcCommon.pdb
